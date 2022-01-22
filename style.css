@@ -1,0 +1,177 @@
+body{
+    overflow-X: hidden;
+    margin:-10px;
+}
+header{
+    background-color: #384a64 ;
+    margin: -10px;  
+    color: azure;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 25px;
+}
+.navi{
+    color: azure;
+    text-decoration: none;
+    margin: 20px;
+}
+.name{font-weight: bold;
+font-size: 20px;
+margin-right: 400px;}
+
+.count1{
+    height: 500px ;
+    background:url(.//фон.jpg) ;
+    margin: -20px -10px -10px -10px;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.img1{
+    margin-right: -300px;
+    margin-top:7px ;
+}
+
+.count2{
+    height: 500px ;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.texte{
+    margin: 0px 70px;
+    font-size: 18px;
+}
+
+.count3{
+    height: 250px ;
+    background: url(.//я\ умею.jpg);
+    margin: -10px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.text1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.max{
+    margin:0px 40px;
+}
+.maxi{
+    color: #cc7502;
+}
+
+.count4{
+    height: 500px ;
+
+    margin-top: 220px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.podcount4{
+    height: 500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+ 
+}
+.article{
+    margin-right:   100px;
+}
+.btn{
+    background-color: rgb(26, 204, 26);
+    color: #ffffff;
+    border-radius: 5px;
+}
+.count5{
+    margin: 100px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.count6{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: url(.//download.png);
+    background-size: cover ;
+}
+.podcount6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin:40px;
+}
+.number{
+    color: darkorange;   
+    font-size: larger;
+    font-weight: bold;
+
+}
+.numbered{
+    margin:0px 40px;
+    font-size: large;
+}
+
+.count7{
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;   
+}
+.count8{
+    background: url(.//контакты.jpg);
+    background-size: cover ;
+    color: #fff;
+    margin-top: 100px;
+    height: 700px;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.masage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.spanx{
+    margin:80px 40px 10px 40px;
+}
+
+.masage2{
+margin:0px 10px ;
+}
+.php{
+    margin: 25px 10px ;
+}
+.btn2{
+    border-radius: 5px;
+    font-size: larger;
+}
+h6{
+    font-size: x-large;
+font-weight: bold;
+}
+
+
+.count9{
+background: url(.//карта2.jpg);
+/* background-size: cover ; */
+}
+
+
+
